@@ -26,9 +26,9 @@ monthFormat: "2006-01"
 dateFormat: "2006-01-02"
 timeFormat: "2006-01-02 15:04:05"
 
-author: D-Sketon
-description: "少女祈祷中..."
-subtitle: "少女祈祷中..."
+author: OtakuLabz
+description: "Admin"
+subtitle: ""
 
 banner: "images/banner.webp"
 # You can also write it in the form of the following url
@@ -97,8 +97,8 @@ footer:
 sidebar: right
 
 social:
-  # email: mailto:xxx@gmail.com
-  # github: https://github.com/yourname
+   email: mailto:dlynton01@gmail.com
+   github: https://github.com/the-code-labz
   # google: https://plus.google.com/yourname
   # twitter: https://twitter.com/yourname
   # facebook: https://www.facebook.com/yourname
@@ -124,9 +124,9 @@ social:
   # steam: https://steamcommunity.com/id/yourname
 
 widgets:
-  - category
+#  - category
   - tag
-  - tagcloud
+#  - tagcloud
   - recent_posts
 
 # Widget behavior
@@ -310,7 +310,7 @@ giscus:
 ########################################
 
 algolia_search:
-  enable: false
+  enable: true
   appID:
   apiKey:
   indexName:
